@@ -1,1 +1,3 @@
-# Informatik Graph
+# Graph GUI
+
+
