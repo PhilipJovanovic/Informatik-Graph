@@ -2,9 +2,9 @@
 
 ## Source Usage
 
-```
+
 Rightclick Project > Properties > Java Build Path > Libraries > Add External JARs... > select sqlite-jdbc-2.21.0.jar > Apply > OK
-```
+
 ## Program Usage
 
 -
