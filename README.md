@@ -29,3 +29,6 @@ Download newest Verison from [Releases](https://github.com/PhilipJovanovic/Infor
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Built With
+- [Java SQLite JDBC Driver](https://github.com/PhilipJovanovic/sqlite-jdbc)
