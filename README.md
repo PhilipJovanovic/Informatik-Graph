@@ -14,7 +14,7 @@ Rightclick Project > Properties > Java Build Path > Libraries > Add External JAR
 - Delete both Arcs: Select two Nodes -> "beide Kanten löschen"
 - Delete one Arc: Select the origin Node and then the target Node -> "Kante löschen"
 - Run an algorithm: Select one Algorithm -> "Algorithmus ausführen"
-- Delete graph: "Graph löschen"
+- Delete graph: `"Graph löschen"`
 
 ## Authors
 
