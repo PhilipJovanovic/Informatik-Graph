@@ -19,6 +19,7 @@ Download newest Verison from [release](https://github.com/PhilipJovanovic/Inform
 - Delete one Arc: Select the origin Node and then the target Node -> `"Kante löschen"`
 - Run an algorithm: Select one Algorithm -> `"Algorithmus ausführen"`
 - Delete graph: `"Graph löschen"`
+- Export/Import Files (.db): `Datei > Import/Export`
 
 ## Authors
 
