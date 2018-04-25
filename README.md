@@ -7,7 +7,7 @@ Rightclick Project > Properties > Java Build Path > Libraries > Add External JAR
 ```
 
 ## Install
-Download newest Verison from [release](https://github.com/PhilipJovanovic/Informatik-Graph/releases)
+Download newest Version from [release](https://github.com/PhilipJovanovic/Informatik-Graph/releases)
 
 ## Program Usage
 
