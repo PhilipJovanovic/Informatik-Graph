@@ -18,9 +18,9 @@ Rightclick Project > Properties > Java Build Path > Libraries > Add External JAR
 
 ## Authors
 
-* **Leon Zamel**
-* **Felix Huber**
-* **Philip Jovanovic** 
+* [Leon Zamel](https://github.com/LeonZamel)
+* [Felix Huber](https://github.com/felixyo)
+* [Philip Jovanovic](https://github.com/PhilipJovanovic)
 
 ## License
 
