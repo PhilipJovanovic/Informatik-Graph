@@ -5,6 +5,10 @@
 ```
 Rightclick Project > Properties > Java Build Path > Libraries > Add External JARs... > select sqlite-jdbc-2.21.0.jar > Apply
 ```
+
+## Install
+Download newest Verison from [Releases](https://github.com/PhilipJovanovic/Informatik-Graph/releases)
+
 ## Program Usage
 
 - Add Nodes: Click on the Panel -> `"Knoten hinzufügen"`
